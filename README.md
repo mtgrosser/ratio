@@ -1,5 +1,5 @@
-ratio
-=====
+[![Gem Version](https://badge.fury.io/rb/ratio.png)](http://badge.fury.io/rb/ratio) [![Code Climate](https://codeclimate.com/github/mtgrosser/ratio.png)](https://codeclimate.com/github/mtgrosser/ratio)
+# ratio
 
 Rationals without the reduction
 
